@@ -20,10 +20,12 @@
 - Continue deepening my knowledge of **frontend development** to become an expert in the field.
 - Work on real-world projects and share my knowledge with the community.
 
+Карточка профиля: 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaronGalileo&theme=solarized_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaronGalileo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Статистика языков в репозиториях:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BaronGalileo)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BaronGalileo&theme=solarized_dark)
 
 ## Languages and Tools
 ![Javascript](https://img.shields.io/badge/Javascript-00090f?style=for-the-badge&logo=Javascript)
