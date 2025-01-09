@@ -1,10 +1,9 @@
-Header
+![Header](./images/Logo.png)
 
 About me
 
 Languages and Tools
 ![Javascript](https://img.shields.io/badge/Javascript-00090f?style=for-the-badge&logo=Javascript)
-![CSS](https://img.shields.io/badge/CSS-00090f?style=for-the-badge&logo=CSS)
 ![React](https://img.shields.io/badge/React-00090f?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/Redux-00090f?style=for-the-badge&logo=Redux)
 ![Python](https://img.shields.io/badge/Python-00090f?style=for-the-badge&logo=Python)
