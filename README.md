@@ -32,6 +32,7 @@
 ## Follow Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-00090f?style=for-the-badge&logo=Telegram)](https://t.me/BarantsovDmitriy)
+[![Gmail](https://img.shields.io/badge/gmail-00090f?style=for-the-badge&logo=gmail)](mailto:barongalileo@gmail.com)
 
 
 
