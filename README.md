@@ -20,7 +20,8 @@
 - Continue deepening my knowledge of **frontend development** to become an expert in the field.
 - Work on real-world projects and share my knowledge with the community.
 
-Карточка профиля: 
+Карточка профиля:
+ 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaronGalileo&theme=solarized_dark)
 
 Статистика языков в репозиториях:
