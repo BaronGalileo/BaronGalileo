@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/Header.gif" alt="Header" style="width: 100%; height: auto;"/>
+  <img src="./images/Header-2.gif" alt="Header" style="width: 100%; height: auto;"/>
 </div>
 
 ## About Me
