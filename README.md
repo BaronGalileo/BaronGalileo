@@ -20,6 +20,11 @@
 - Continue deepening my knowledge of **frontend development** to become an expert in the field.
 - Work on real-world projects and share my knowledge with the community.
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaronGalileo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BaronGalileo)](https://git.io/streak-stats)
+
 ## Languages and Tools
 ![Javascript](https://img.shields.io/badge/Javascript-00090f?style=for-the-badge&logo=Javascript)
 ![React](https://img.shields.io/badge/React-00090f?style=for-the-badge&logo=React)
@@ -33,6 +38,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-00090f?style=for-the-badge&logo=Telegram)](https://t.me/BarantsovDmitriy)
 [![Gmail](https://img.shields.io/badge/gmail-00090f?style=for-the-badge&logo=gmail)](mailto:barongalileo@gmail.com)
+[![whatsapp](https://img.shields.io/badge/whatsapp-00090f?style=for-the-badge&logo=whatsapp)](https://wa.me/375293494371)
 
 
 
