@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/Header.gif" alt="Header" width="800" />
+  <img src="./images/Header.gif" alt="Header" style="width: 100%; max-width: 800px; height: auto;"/>
 </div>
 
 ## About Me
