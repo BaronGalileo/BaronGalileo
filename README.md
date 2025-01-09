@@ -1,4 +1,6 @@
-![Header](./images/Logo.png)
+<div align="center">
+  <img src="./images/Header.gif" alt="Header" width="800" />
+</div>
 
 About me
 
