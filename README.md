@@ -30,6 +30,8 @@
 
 ## Languages and Tools
 ![Javascript](https://img.shields.io/badge/Javascript-00090f?style=for-the-badge&logo=Javascript)
+![Typescript](https://img.shields.io/badge/Typescript-00090f?style=for-the-badge&logo=Typescript)
+![Sass](https://img.shields.io/badge/Sass-00090f?style=for-the-badge&logo=Sass)
 ![React](https://img.shields.io/badge/React-00090f?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/Redux-00090f?style=for-the-badge&logo=Redux)
 ![Python](https://img.shields.io/badge/Python-00090f?style=for-the-badge&logo=Python)
@@ -43,19 +45,5 @@
 [![Gmail](https://img.shields.io/badge/gmail-00090f?style=for-the-badge&logo=gmail)](mailto:barongalileo@gmail.com)
 [![whatsapp](https://img.shields.io/badge/whatsapp-00090f?style=for-the-badge&logo=whatsapp)](https://wa.me/375293494371)
 
+[![Превью PDF](./images/certif.png)](./images/Barantsou%20Dzmitry.pdf)
 
-
-<!--
-**BaronGalileo/BaronGalileo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
